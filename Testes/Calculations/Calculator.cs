@@ -12,5 +12,15 @@ namespace Calculations
         {
             return b + a;
         }
+
+        public double AddDouble(double a, double b)
+        {
+            return b + a;
+        }
+
+        public bool IdOdd(int value)
+        {
+            return (value % 2) == 1;
+        }
     }
 }

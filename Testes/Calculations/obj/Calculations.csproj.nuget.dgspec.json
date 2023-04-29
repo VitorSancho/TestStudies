@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vitor\\OneDrive\\Documentos\\Cursos\\CursoDotNet\\Testes\\Calculations\\Calculations.csproj": {}
+    "C:\\Users\\vitor\\OneDrive\\Documentos\\Cursos\\CursoDotNet\\Testes\\TestStudies\\Testes\\Calculations\\Calculations.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vitor\\OneDrive\\Documentos\\Cursos\\CursoDotNet\\Testes\\Calculations\\Calculations.csproj": {
+    "C:\\Users\\vitor\\OneDrive\\Documentos\\Cursos\\CursoDotNet\\Testes\\TestStudies\\Testes\\Calculations\\Calculations.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vitor\\OneDrive\\Documentos\\Cursos\\CursoDotNet\\Testes\\Calculations\\Calculations.csproj",
+        "projectUniqueName": "C:\\Users\\vitor\\OneDrive\\Documentos\\Cursos\\CursoDotNet\\Testes\\TestStudies\\Testes\\Calculations\\Calculations.csproj",
         "projectName": "Calculations",
-        "projectPath": "C:\\Users\\vitor\\OneDrive\\Documentos\\Cursos\\CursoDotNet\\Testes\\Calculations\\Calculations.csproj",
+        "projectPath": "C:\\Users\\vitor\\OneDrive\\Documentos\\Cursos\\CursoDotNet\\Testes\\TestStudies\\Testes\\Calculations\\Calculations.csproj",
         "packagesPath": "C:\\Users\\vitor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vitor\\OneDrive\\Documentos\\Cursos\\CursoDotNet\\Testes\\Calculations\\obj\\",
+        "outputPath": "C:\\Users\\vitor\\OneDrive\\Documentos\\Cursos\\CursoDotNet\\Testes\\TestStudies\\Testes\\Calculations\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -45,6 +45,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.5.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

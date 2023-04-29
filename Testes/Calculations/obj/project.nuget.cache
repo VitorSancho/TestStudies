@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "L8zd6RHGHzGY09/i/ZamBWT49VjT8G3oBXKm0uJum4Z+jI4MYPXz1Mwa4qzGYV8z6fR49PyLW8dzxWzIV0BbLw==",
+  "dgSpecHash": "5SCZxg9z5kzkwghqUJ8Io3QPPjf3b5a5tBJL02kFi9KJdrAzOZBIqAiOplTZUR7T+kS+qu26pv9kuUJEpEWbRQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vitor\\OneDrive\\Documentos\\Cursos\\CursoDotNet\\Testes\\Calculations\\Calculations.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\vitor\\OneDrive\\Documentos\\Cursos\\CursoDotNet\\Testes\\TestStudies\\Testes\\Calculations\\Calculations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vitor\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",
+    "C:\\Users\\vitor\\.nuget\\packages\\microsoft.net.test.sdk\\17.5.0\\microsoft.net.test.sdk.17.5.0.nupkg.sha512",
+    "C:\\Users\\vitor\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.5.0\\microsoft.testplatform.objectmodel.17.5.0.nupkg.sha512",
+    "C:\\Users\\vitor\\.nuget\\packages\\microsoft.testplatform.testhost\\17.5.0\\microsoft.testplatform.testhost.17.5.0.nupkg.sha512",
+    "C:\\Users\\vitor\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\vitor\\.nuget\\packages\\nuget.frameworks\\5.11.0\\nuget.frameworks.5.11.0.nupkg.sha512",
+    "C:\\Users\\vitor\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
   "logs": []
 }
